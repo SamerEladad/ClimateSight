@@ -27,7 +27,12 @@ How to submit issues or pull requests.)
 (License information for the project.)
 
 ## Authors
-(List of main contributors and their contact information.)
+For any queries, reach out to the project maintainers:
+- [Samer](samereladad@gmail.com)
+- [Samuel](samuel.bohn@gmx.de)
+- [Nicolas](nicolasfaatz@web.de)
+- [Janik](Janik.1507@gmail.com)
+- [Uzair](uzairrana786@gmail.com)
 
 ## Acknowledgements
 (Credits to data providers, supporters, and any third-party tools used.)
